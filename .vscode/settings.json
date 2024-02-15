@@ -1,0 +1,22 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/himaj/arm_ros_ws/build/control_joint_states",
+        "/home/himaj/arm_ros_ws/install/control_joint_states/lib/python3.10/site-packages",
+        "/home/himaj/build/my_py_pkg",
+        "/home/himaj/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/himaj/ros2_ws/build/my_py_pkg",
+        "/home/himaj/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/himaj/arm_ros_ws/build/control_joint_states",
+        "/home/himaj/arm_ros_ws/install/control_joint_states/lib/python3.10/site-packages",
+        "/home/himaj/build/my_py_pkg",
+        "/home/himaj/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/himaj/ros2_ws/build/my_py_pkg",
+        "/home/himaj/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
